@@ -1,0 +1,12 @@
+com/example/samplefragment2/MainActivity.java
+ com.example.samplefragment2.MainActivity
+com/example/samplefragment2/ListFragment.java
+ com.example.samplefragment2.ListFragment
+ com.example.samplefragment2.ListFragment$1
+ com.example.samplefragment2.ListFragment$2
+ com.example.samplefragment2.ListFragment$3
+ com.example.samplefragment2.ListFragment$ImageSelectionCallback
+com/example/samplefragment2/BuildConfig.java
+ com.example.samplefragment2.BuildConfig
+com/example/samplefragment2/ViewerFragment.java
+ com.example.samplefragment2.ViewerFragment

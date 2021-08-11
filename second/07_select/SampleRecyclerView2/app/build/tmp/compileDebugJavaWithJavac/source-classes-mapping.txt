@@ -1,0 +1,13 @@
+com/example/recyclerview2/BuildConfig.java
+ com.example.recyclerview2.BuildConfig
+com/example/recyclerview2/Person.java
+ com.example.recyclerview2.Person
+com/example/recyclerview2/OnPersonItemClickListener.java
+ com.example.recyclerview2.OnPersonItemClickListener
+com/example/recyclerview2/MainActivity.java
+ com.example.recyclerview2.MainActivity
+ com.example.recyclerview2.MainActivity$1
+com/example/recyclerview2/PersonAdapter.java
+ com.example.recyclerview2.PersonAdapter
+ com.example.recyclerview2.PersonAdapter$ViewHolder
+ com.example.recyclerview2.PersonAdapter$ViewHolder$1

@@ -1,0 +1,9 @@
+com/example/samplefragment/BuildConfig.java
+ com.example.samplefragment.BuildConfig
+com/example/samplefragment/MainActivity.java
+ com.example.samplefragment.MainActivity
+com/example/samplefragment/MenuFragment.java
+ com.example.samplefragment.MenuFragment
+com/example/samplefragment/MainFragment.java
+ com.example.samplefragment.MainFragment
+ com.example.samplefragment.MainFragment$1

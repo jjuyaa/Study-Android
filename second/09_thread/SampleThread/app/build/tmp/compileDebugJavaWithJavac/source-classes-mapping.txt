@@ -1,0 +1,6 @@
+com/example/thread/MainActivity.java
+ com.example.thread.MainActivity
+ com.example.thread.MainActivity$1
+ com.example.thread.MainActivity$BackgroundThread
+com/example/thread/BuildConfig.java
+ com.example.thread.BuildConfig

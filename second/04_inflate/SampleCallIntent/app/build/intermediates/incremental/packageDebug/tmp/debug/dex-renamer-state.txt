@@ -1,0 +1,4 @@
+#Tue Jul 20 16:47:16 KST 2021
+base.0=/Users/jjuyaa/Desktop/study/Android/second/04_inflate/SampleCallIntent/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

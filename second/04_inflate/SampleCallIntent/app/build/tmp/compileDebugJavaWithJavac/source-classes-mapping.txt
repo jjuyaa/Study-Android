@@ -1,0 +1,5 @@
+com/example/samplecallintent/BuildConfig.java
+ com.example.samplecallintent.BuildConfig
+com/example/samplecallintent/MainActivity.java
+ com.example.samplecallintent.MainActivity
+ com.example.samplecallintent.MainActivity$1

@@ -1,0 +1,12 @@
+com/example/samplepager/MainActivity.java
+ com.example.samplepager.MainActivity
+ com.example.samplepager.MainActivity$1
+ com.example.samplepager.MainActivity$MyPagerAdapter
+com/example/samplepager/BuildConfig.java
+ com.example.samplepager.BuildConfig
+com/example/samplepager/Fragment3.java
+ com.example.samplepager.Fragment3
+com/example/samplepager/Fragment1.java
+ com.example.samplepager.Fragment1
+com/example/samplepager/Fragment2.java
+ com.example.samplepager.Fragment2

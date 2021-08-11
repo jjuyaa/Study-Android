@@ -1,0 +1,9 @@
+com/example/recyclerview/Person.java
+ com.example.recyclerview.Person
+com/example/recyclerview/BuildConfig.java
+ com.example.recyclerview.BuildConfig
+com/example/recyclerview/PersonAdapter.java
+ com.example.recyclerview.PersonAdapter
+ com.example.recyclerview.PersonAdapter$ViewHolder
+com/example/recyclerview/MainActivity.java
+ com.example.recyclerview.MainActivity

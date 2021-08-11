@@ -1,0 +1,11 @@
+com/example/tab2/BuildConfig.java
+ com.example.tab2.BuildConfig
+com/example/tab2/Fragment3.java
+ com.example.tab2.Fragment3
+com/example/tab2/Fragment2.java
+ com.example.tab2.Fragment2
+com/example/tab2/MainActivity.java
+ com.example.tab2.MainActivity
+ com.example.tab2.MainActivity$1
+com/example/tab2/Fragment1.java
+ com.example.tab2.Fragment1
