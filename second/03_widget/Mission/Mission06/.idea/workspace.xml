@@ -152,6 +152,9 @@
         </entry>
       </map>
     </option>
+<<<<<<< HEAD
     <option name="oldMeFiltersMigrated" value="true" />
+=======
+>>>>>>> 64116c9b1213ee92585c302ed1700a9151adca7e
   </component>
 </project>
